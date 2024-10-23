@@ -29,7 +29,7 @@ function App() {
   
 
       <div className="Wrapper">
-        <h1>File Sharing Webapp</h1>
+        <h1>File Sharing Website</h1>
         <p>Upload and share the Download Link</p>
         <button onClick={() => onUploadClick()}>Upload</button>
         <input
